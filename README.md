@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm working on a game:   
+[LampKatze Studio](https://lampkatze.com/)
+
+
+Need to get in touch?   
+[LinkedIn](https://www.linkedin.com/in/anton-s-238339235/)
 <!--
 **Arizoba/Arizoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
