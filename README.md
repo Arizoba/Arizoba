@@ -5,7 +5,7 @@ I'm working on a game:
 
 
 Need to get in touch?   
-[LinkedIn](https://www.linkedin.com/in/anton-s-238339235/)
+[LinkedIn](https://www.linkedin.com/in/mightbeanton/)
 <!--
 **Arizoba/Arizoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
